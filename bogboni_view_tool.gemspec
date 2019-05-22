@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Humsbel Jao"]
   spec.email         = ["humsbel_obregon12@hotmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific method for application I use.}
+  spec.description   = %q{Provides generated HTML data for Rails App.}
+  spec.homepage      = "https://bogboni.info"
   spec.license       = "MIT"
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
